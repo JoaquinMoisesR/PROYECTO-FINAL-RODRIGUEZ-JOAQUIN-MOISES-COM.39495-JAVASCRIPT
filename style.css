@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    color: rgba(0, 0, 255, 0.534);
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    color:rgba(62, 62, 145, 0.726);
+}
+
+h3 {
+    text-align: center;
+    color:rgba(171, 171, 185, 0.801);
+}
+
+.fondo-imagen {
+    background-image: url(./images/rat.webp);
+}
+
+.letra {
+    color: rgb(245, 245, 245);
+    border: 12px;
+    font-size: 31px;
+}
+

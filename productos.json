@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "Carburador Holley 40/40",
+        "precio": 48000
+    },
+    {
+        "nombre": "Leva Galetto 11.35",
+        "precio": 35000
+    },
+    {
+        "nombre": "Kit bujias iridium-platinum Ferrazi",
+        "precio": 28000
+    },
+    {
+        "nombre": "Bobina RPC Competicion",
+        "precio": 22000
+    },
+    {
+        "nombre": "Kit Valvulas Edelbrook",
+        "precio": 52000
+    },
+    {
+        "nombre": "Kit Pistones Forjados RPC",
+        "precio": 68000
+    },
+    {
+        "nombre": "Aros L Italy",
+        "precio": 15000
+    },
+    {
+        "nombre": "Turbina T3 RPC",
+        "precio": 145000
+    },
+    {
+        "nombre": "Intercooler y mangueras Water",
+        "precio": 125000
+    },
+    {
+        "nombre": "Kit admision aire/combustible Masterpower",
+        "precio": 89000
+    },
+    {
+        "nombre": "Multiple Escape 4 a 1 RPC",
+        "precio": 110000
+    },
+    {
+        "nombre": "Inyectores metanol RPC",
+        "precio": 166000
+    }
+]
